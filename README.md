@@ -15,7 +15,10 @@ The goal of this project was to find out if the number of bike stations within d
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 
 ## Challenges 
-(discuss challenges you faced in the project)
+My major challenge whilst working on this project was extraction of data from both Yelp and Foursquare API. I ran into LIMIT based on the amount of API request I can make within a period time which significantly slowed my progress.
+
+I also faced some time constraint challenges which prevented me from exploring those dataset in dept as I’d preferred to. 
+
 
 ## Future Goals
-(what would you do if you had more time?)
+My future goal for this project will be to explore other city and also find out if certain time of the day affect bikes availability and what could have triggered the change if any. 
