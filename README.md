@@ -12,7 +12,9 @@ The goal of this project was to find out if the number of bike stations within d
 
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+After dissecting the result from the three APIs, I discovered the Yelp API produces way better and quality information when compared to similar request from the Foursquare API
+
+I tested my hypothesis on whether the number of businesses within a geographical area correlate to the amount of bike stations within that area by running a simple linear regression. The p-value turns out to be 0.173. 
 
 ## Challenges 
 My major challenge whilst working on this project was extraction of data from both Yelp and Foursquare API. I ran into LIMIT based on the amount of API request I can make within a period time which significantly slowed my progress.
